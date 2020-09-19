@@ -4,10 +4,10 @@
 
 A basic application for browsing/searching/saving movies and saving them to your personal library.
 
-![](./ReadMeAssets/BrowseApp.gif)
-![](./ReadMeAssets/libraryApp.gif)
-![](./ReadMeAssets/profileApp.gif)
-![](./ReadMeAssets/SearchApp.gif)
+![](./ReadMeAssets/BrowseApp.gif =100x200)
+![](./ReadMeAssets/libraryApp.gif =100x200)
+![](./ReadMeAssets/profileApp.gif =100x200)
+![](./ReadMeAssets/SearchApp.gif =100x200)
 
 ### Key functionality
 
