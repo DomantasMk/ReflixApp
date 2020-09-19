@@ -1,0 +1,950 @@
+[
+  {
+    title: 'Dil Bechara (2020)',
+    rating: '9.1',
+    ratingCount: '93,178',
+    genres: [ '' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNmI0MTliMTAtMmJhNC00NTJmLTllMzQtMDI3NzA1ODMyZWI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR16,0,182,268_AL_.jpg',
+    length: '1h 41min',
+    description: `Based on the bestselling novel "The Fault in Our Stars" by author John Green, Dil Bechara is a story of Kizie and Manny, two ordinary people with an extraordinary love story. Both have a tragic twist to their lives. That was the start of exploring a funny, thrilling and tragic business of being alive and in love. Kizie and Manny embark on an, on and off, up and down, bitter and sweet profound journey into the heart of that crazy little thing called 'life'.`
+  },
+  {
+    title: 'The Kissing Booth 2 (2020)',
+    rating: '6.0',
+    ratingCount: '10,650',
+    genres: [ 'Comedy', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BOWQ5ZGU2ZGQtOTJjYi00MWI3LWE1ZDQtM2EzOGI2MzJjNTA4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY268_CR1,0,182,268_AL_.jpg',
+    length: '2h 14min',
+    description: "Elle Evans (Joey King) just had the most romantic summer of her life with her reformed bad-boy boyfriend Noah Flynn (Jacob Elordi). But now Noah's off to Harvard, and Elle's headed back to high school for her senior year. She'll have to juggle a long-distance relationship, getting into her dream college with her best friend Lee (Joel Courtney), and a new friendship with handsome classmate Marco (Taylor Perez). When Noah grows close to a seemingly-perfect college girl, Elle will have to decide how much she trusts him, and just what - and who - her heart truly wants. Director and screenwriter Vince Marcello returns for THE KISSING BOOTH sequel, based on characters from Beth Reekles' 2012 young adult book."
+  },
+  {
+    title: 'The Old Guard (2020)',
+    rating: '6.7',
+    ratingCount: '80,781',
+    genres: [ 'Action', 'Adventure', 'Fantasy', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNDJiZDliZDAtMjc5Yy00MzVhLThkY2MtNDYwNTQ2ZTM5MDcxXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 5min',
+    description: "Led by a warrior named Andy (Charlize Theron), a covert group of tight-knit mercenaries with a mysterious inability to die have fought to protect the mortal world for centuries. But when the team is recruited to take on an emergency mission and their extraordinary abilities are suddenly exposed, it's up to Andy and Nile (Kiki Layne), the newest soldier to join their ranks, to help the group eliminate the threat of those who seek to replicate and monetize their power by any means necessary."
+  },
+  {
+    title: 'The Kissing Booth (2018)',
+    rating: '6.0',
+    ratingCount: '58,695',
+    genres: [ 'Comedy', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 45min',
+    description: "When Elle Evans (Joey King), a pretty, late-bloomer who's never-been-kissed, decides to run a kissing booth at her high school's Spring Carnival, she unexpectedly finds herself locking lips with her secret crush- the ultimate bad boy, Noah Flynn (Jacob Elordi). Sparks fly, but there's one little problem: Noah just happens to be the brother of her best friend, Lee, (Joel Courtney) and is absolutely off limits according to the rules of their friendship pact. Elle's life is turned upside down when she realizes that she must ultimately make a choice: follow the rules or follow her heart. Based on Beth Reekle's self-published coming-of-age novel that became an international sensation, THE KISSING BOOTH is a Netflix Film, written and directed by Vince Marcello."
+  },
+  {
+    title: 'Greyhound (2020)',
+    rating: '7.1',
+    ratingCount: '37,889',
+    genres: [ 'Action', 'Drama', 'History', 'War' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 31min',
+    description: `Based upon the novel "The Good Shepherd" by C S Forester, this is the thrilling story of an Allied convoy crossing the North Atlantic in 1942 as it faces relentless attack by a German submarine wolf pack. The leader of the convoy's destroyer screen is a US Navy commander making his first Atlantic crossing. The story focuses on the his command responsibility as he fights the cold, the relentless night, the brutal sea, and his deep fatigue as he chases down the attacking submarines in the deadly game of cat and mouse. The exciting story, a thrilling ride-along with the beleaguered captain, so deeply portrays the elements of battle command that for a long period of time the book was used as a text at the US Naval Academy.`
+  },
+  {
+    title: 'Palm Springs (2020)',
+    rating: '7.5',
+    ratingCount: '33,208',
+    genres: [ 'Comedy', 'Fantasy', 'Mystery', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYjk0MTgzMmQtZmY2My00NmE5LWExNGUtYjZkNTA3ZDkyMTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY268_CR0,0,182,268_AL_.jpg',
+    length: '1h 30min',
+    description: 'While stuck at a wedding in Palm Springs, Nyles (Andy Samberg) meets Sarah (Cristin Milioti), the maid of honor and family black sheep. After he rescues her from a disastrous toast, Sarah becomes drawn to Nyles and his offbeat nihilism. But when their impromptu tryst is thwarted by a surreal interruption, Sarah must join Nyles in embracing the idea that nothing really matters, and they begin wreaking spirited havoc on the wedding celebration.'
+  },
+  {
+    title: 'The Rental (2020)',
+    rating: '5.8',
+    ratingCount: '5,313',
+    genres: [ 'Horror', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjMwOGEyMTQtMDllMC00YTU3LTgyNzktYmEwY2Y4MjQzYmRkXkEyXkFqcGdeQXVyMjM4OTYzMTQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 28min',
+    description: 'Two couples on an oceanside getaway grow suspicious that the host of their seemingly perfect rental house may be spying on them. Before long, what should have been a celebratory weekend trip turns into something far more sinister, as well-kept secrets are exposed and the four old friends come to see each other in a whole new light.'
+  },
+  {
+    title: 'Hamilton (2020)',
+    rating: '8.8',
+    ratingCount: '31,466',
+    genres: [ 'Biography', 'Drama', 'History', 'Musical' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 40min',
+    description: '"Hamilton" is the story of America then, told by America now. Featuring a score that blends hip-hop, jazz, R&B, and show tunes, "Hamilton" has taken the story of American founding father Alexander Hamilton and created a revolutionary moment in theater--a musical that has had a profound impact on culture, politics, and education. Captured at the Richard Rodgers Theater on Broadway in June 2016, the film transports its audience into the world of the Broadway show in a uniquely intimate way.'
+  },
+  {
+    title: 'Eurovision Song Contest: The Story of Fire Saga (2020)',
+    rating: '6.6',
+    ratingCount: '55,402',
+    genres: [ 'Comedy', 'Music' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYzRjYzA5NTQtOTE3MC00OTYzLWEzODItMzQxYWE1NDJkMDA0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 3min',
+    description: "When aspiring musicians Lars and Sigrit are given the opportunity to represent their country at the world's biggest song competition, they finally have a chance to prove that any dream worth having is a dream worth fighting for."
+  },
+  {
+    title: 'Knives Out (2019)',
+    rating: '7.9',
+    ratingCount: '359,853',
+    genres: [ 'Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 10min',
+    description: "When renowned crime novelist Harlan Thrombey (Christopher Plummer) is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc (Daniel Craig) is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death."
+  },
+  {
+    title: 'Deep Blue Sea 3 (2020)',
+    rating: '4.6',
+    ratingCount: '1,424',
+    genres: [ 'Action', 'Horror', 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNTI1YmU4NmItZTc4NC00NzA2LWJiMjYtMmE0Njg5M2U2N2VhXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_UY268_CR9,0,182,268_AL_.jpg',
+    length: '1h 39min',
+    description: `Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a "scientific" team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren't just any bull sharks.`
+  },
+  {
+    title: 'Gone with the Wind (1939)',
+    rating: '8.1',
+    ratingCount: '282,694',
+    genres: [ 'Drama', 'History', 'Romance', 'War' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '3h 58min',
+    description: 'Scarlett is a woman who can deal with a nation at war, Atlanta burning, the Union Army carrying off everything from her beloved Tara, the carpetbaggers who arrive after the war. Scarlett is beautiful. She has vitality. But Ashley, the man she has wanted for so long, is going to marry his placid cousin, Melanie. Mammy warns Scarlett to behave herself at the party at Twelve Oaks. There is a new man there that day, the day the Civil War begins. Rhett Butler. Scarlett does not know he is in the room when she pleads with Ashley to choose her instead of Melanie.'
+  },
+  {
+    title: 'The Gentlemen (2019)',
+    rating: '7.9',
+    ratingCount: '169,863',
+    genres: [ 'Action', 'Comedy', 'Crime' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMTlkMmVmYjktYTc2NC00ZGZjLWEyOWUtMjc2MDMwMjQwOTA5XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 53min',
+    description: 'A talented American graduate of Oxford, using his unique skills, and audacity, creates a marijuana empire using the estates of impoverished British aristocrats. However, when he tries to sell his empire to a fellow American billionaire, a chain of events unfolds, involving blackmail, deception, mayhem and murder between street thugs, Russian oligarchs, Triad gangsters and gutter journalists.'
+  },
+  {
+    title: 'Animal Crackers (2017)',
+    rating: '5.8',
+    ratingCount: '1,344',
+    genres: [ 'Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNjE0ZWNlYzMtMDVhZi00NzBkLWJiZGMtZDZiMjE0ZjMyMTdmXkEyXkFqcGdeQXVyNTY0MTg1NTE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 45min',
+    description: "Owen Huntington's life is one continuous loop of work, eat, and sleep. A loop that keeps him from ever seeing his wife Zoe, or his three-year-old daughter MacKenzie. A loop that is sure to kill him. Then, one day, Owen discovers a long-lost Uncle died, and left his circus to Owen. What could have been a blessing soon unfolds into a curse. The circus is broke. The animals are all gone, and most of the crew are too old to be of any use. It's a disaster. But something magical happens. Owen discovers Buffalo Bob's secret. A box of Animal Crackers that gives the bearer the ability to become any animal in the box. Suddenly, there's hope. If Owen can use the box to become these animals and perform, people will come. He'll be rich. But Owen forgot one thing. Buffalo Bob had a brother: Horatio P. Huntington. Owner of the largest chain of circuses in the world, and Horatio would stop at nothing to get his hands on the magical Animal Crackers."
+  },
+  {
+    title: 'The Shawshank Redemption (1994)',
+    rating: '9.3',
+    ratingCount: '2,269,738',
+    genres: [ 'Drama' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 22min',
+    description: "Chronicles the experiences of a formerly successful banker as a prisoner in the gloomy jailhouse of Shawshank after being found guilty of a crime he did not commit. The film portrays the man's unique way of dealing with his new, torturous life; along the way he befriends a number of fellow prisoners, most notably a wise long-term inmate named Red."
+  },
+  {
+    title: 'Once Upon a Time... in Hollywood (2019)',
+    rating: '7.7',
+    ratingCount: '498,105',
+    genres: [ 'Comedy', 'Drama' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 41min',
+    description: "Quentin Tarantino's Once Upon a Time... in Hollywood visits 1969 Los Angeles, where everything is changing, as TV star Rick Dalton (Leonardo DiCaprio) and his longtime stunt double Cliff Booth (Brad Pitt) make their way around an industry they hardly recognize anymore. The ninth film from the writer-director features a large ensemble cast and multiple storylines in a tribute to the final moments of Hollywood's golden age."
+  },
+  {
+    title: 'The Godfather (1972)',
+    rating: '9.2',
+    ratingCount: '1,565,589',
+    genres: [ 'Crime', 'Drama' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL_.jpg',
+    length: '2h 55min',
+    description: `The Godfather "Don" Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WW II Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart.`
+  },
+  {
+    title: 'Yes, God, Yes (2019)',
+    rating: '5.9',
+    ratingCount: '1,747',
+    genres: [
+      'PictureRating(MPAA)RatedRforsexualcontentandsomenudity',
+      'Seeallcertifications»'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjZjNzRjNmQtOGJlMS00NzVkLWFmYWQtYjIxMzJmYTkwMjhhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 18min',
+    description: 'After an innocent AOL chat turns racy, a Catholic teenager in the early 00s discovers masturbating and struggles to suppress her new urges in the face of eternal damnation.'
+  },
+  {
+    title: 'The Outpost (2020)',
+    rating: '6.7',
+    ratingCount: '7,042',
+    genres: [ 'Drama', 'History', 'War' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNWYyMzNjY2EtODVmYi00ODBmLWIyNGMtNDdhMGViY2RhNjcxXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 3min',
+    description: 'During the Afghanistan war, several outposts were placed to control the Taliban movement and their supply chain. Camp Keating, situated in a valley surrounded by mountains, was one them. While being shot at by the Talibans was business as usual, they tried to gain respect from local village elders and have them help stop these skirmishes. One day, when 400 Talibans rallied for a surprise attack, it was up to them to leverage the poor defenses and lack of ammo and manpower they had, to ultimately survive and go back to their loved ones.'
+  },
+  {
+    title: 'Kajillionaire (2020)',
+    rating: '5.6',
+    ratingCount: '147',
+    genres: [ 'PictureRating(MPAA)RatedRforsomesexualreferences/language' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BY2U5NjEzNmYtZTg3ZS00NDc3LWIwY2MtNzFlOGY5YzQ0ODA2XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UY268_CR16,0,182,268_AL_.jpg',
+    length: '1h 46min',
+    description: "A woman's life is turned upside down when her criminal parents invite an outsider to join them on a major heist they're planning."
+  },
+  {
+    title: 'Joker (2019)',
+    rating: '8.5',
+    ratingCount: '837,336',
+    genres: [ 'Crime', 'Drama', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 2min',
+    description: 'Arthur Fleck works as a clown and is an aspiring stand-up comic. He has mental health issues, part of which involves uncontrollable laughter. Times are tough and, due to his issues and occupation, Arthur has an even worse time than most. Over time these issues bear down on him, shaping his actions, making him ultimately take on the persona he is more known as...Joker.'
+  },
+  {
+    title: 'Parasite (2019)',
+    rating: '8.6',
+    ratingCount: '457,205',
+    genres: [ 'Comedy', 'Drama', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 12min',
+    description: 'The Kims - mother and father Chung-sook and Ki-taek, and their young adult offspring, son Ki-woo and daughter Ki-jung - are a poor family living in a shabby and cramped half basement apartment in a busy lower working class commercial district of Seoul. Without even knowing it, they, especially Mr. and Mrs. Kim, literally smell of poverty. Often as a collective, they perpetrate minor scams to get by, and even when they have jobs, they do the minimum work required. Ki-woo is the one who has dreams of getting out of poverty by one day going to university. Despite not having that university education, Ki-woo is chosen by his university student friend Min, who is leaving to go to school, to take over his tutoring job to Park Da-hye, who Min plans to date once he returns to Seoul and she herself is in university. The Parks are a wealthy family who for four years have lived in their modernistic house designed by and the former residence of famed architect Namgoong. While Mr. and Mrs. Park ...'
+  },
+  {
+    title: 'After (2019)',
+    rating: '5.4',
+    ratingCount: '29,626',
+    genres: [ 'Drama', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 45min',
+    description: "Based on Anna Todd's novel, AFTER follows Tessa (Langford), a dedicated student, dutiful daughter, and loyal girlfriend to her high-school sweetheart, as she enters her first semester in college armed with grand ambitions for her future. Her guarded world opens up when she meets the dark, mysterious Hardin Scott (Tiffin), a magnetic, brooding rebel who makes her question all she thought she knew about herself and what she wants from life."
+  },
+  {
+    title: 'Motherless Brooklyn (2019)',
+    rating: '6.8',
+    ratingCount: '33,206',
+    genres: [
+      'PictureRating(MPAA)RatedRforlanguagethroughoutincludingsomesexualreferences,briefdruguse,andviolence',
+      'Seeallcertifications»'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNzQ0Mjk1YjItNWI1Ny00NWE2LWFlYTAtYjViY2YzMTVlOGVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 24min',
+    description: `Set against the backdrop of 1950s New York, "Motherless Brooklyn" follows Lionel Essrog (Norton), a lonely private detective afflicted with Tourette's Syndrome, as he ventures to solve his friend's murder. Armed only with a few clues and the powerful engine of his obsessive mind, Lionel unravels closely-guarded secrets that hold the fate of the whole city in the balance.`
+  },
+  {
+    title: 'Avengers: Endgame (2019)',
+    rating: '8.4',
+    ratingCount: '745,652',
+    genres: [ 'Action', 'Adventure', 'Drama', 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '3h 1min',
+    description: "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face..."
+  },
+  {
+    title: 'MILF (2018)',
+    rating: '4.7',
+    ratingCount: '2,719',
+    genres: [ 'cate:TV-MA', 'Seeallcertifications»' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjcyNDJiMTEtNGQ2Ni00ZTk5LWE2YjQtZTIyOGQxMjFjMTM4XkEyXkFqcGdeQXVyODY0MjI4NjM@._V1_UY268_CR6,0,182,268_AL_.jpg',
+    length: '1h 41min',
+    description: "Cécile, Sonia and Elise, three childhood friends go to the Côte d'Azur to empty the house of one of them to be put on sale. During these few days, they will become the preferred targets of three young boys, for whom these single women, approaching their forties, are much more attractive than girls their age. Getting ready to play, the three friends will gradually become aware of their power of seduction as a MILF."
+  },
+  {
+    title: 'Most Wanted (2020)',
+    rating: '6.1',
+    ratingCount: '770',
+    genres: [ 'Biography', 'Crime', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNDgwNmU1NzItYWM5MS00YWUzLTk1ZDctODBjYTQ0NDg0NjQ3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 15min',
+    description: 'Ex heroin junkie, Daniel Léger, gets involved in a drug deal with the wrong people for the wrong reasons. When the deal goes sour, Daniel gets thrown into a Thai prison and slapped with a 100-year sentence. While he tries to survive his Bangkok incarceration, the news of his conviction captures the attention of Globe and Mail journalist Victor Malarek, who decides to go after the shady undercover cops responsible for wrongly accusing Daniel.'
+  },
+  {
+    title: 'The Silencing (2020)',
+    rating: '6.0',
+    ratingCount: '2,785',
+    genres: [
+      'PictureRating(MPAA)RatedRforviolence,somedisturbingimages,andlanguage'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYjE2MjIwMmYtM2ZiMy00MzdmLTkyNTYtNmFiNjM5MDJhMGVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 33min',
+    description: 'A reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.'
+  },
+  {
+    title: 'Peninsula (2020)',
+    rating: '6.0',
+    ratingCount: '1,301',
+    genres: [ 'cate:Seeallcertifications»' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZDUyZWU4NDAtZDlmZC00NjhkLTliZTUtZjVhOTMwNTEyOWFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 56min',
+    description: 'Peninsula takes place four years after the zombie outbreak in Train to Busan. The Korean peninsula is devastated and Jung Seok, a former soldier who has managed to escape overseas, is given a mission to go back and unexpectedly meets survivors.'
+  },
+  {
+    title: 'Ford v Ferrari (2019)',
+    rating: '8.1',
+    ratingCount: '243,249',
+    genres: [ 'Action', 'Biography', 'Drama', 'Sport' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 32min',
+    description: "As Enzo Ferrari's fast Rosso-Corsa racing cars dominate the mid-1960s motorsport world, the American car designer, Carroll Shelby, is forced to retire after winning the demanding 1959 '24 Hours of Le Mans' endurance race. But, before long, an unexpected proposition by the Vice President of Henry Ford's motor company, Lee Iacocca, will offer an opportunity to beat the Italians at their own game. Now, under those pressing circumstances, the British sports car driver and racing engineer, Ken Miles, reluctantly agrees to lend a hand and improve the firm's image, as Ford's race team has less than ninety days to rewrite history. As a result, the non-conformist duo comes up with the mighty Ford GT40 Mk I high-performance racing car. Can Shelby and Miles break Ferrari's streak?"
+  },
+  {
+    title: 'Unhinged (2020)',
+    rating: '6.2',
+    ratingCount: '1,243',
+    genres: [ 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYjc1Mjg5NjItY2I2MS00NDk3LWI5NGYtNzZjNTNiZmMwZTA3XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 30min',
+    description: "Academy Award winner Russell Crowe stars in Unhinged, a psychological thriller that takes something we've all experienced- road rage - to an unpredictable and terrifying conclusion. Rachel (Caren Pistorius) is running late getting to work when she crosses paths with a stranger (Crowe) at a traffic light. Soon, Rachel finds herself and everyone she loves the target of a man who feels invisible and is looking to make one last mark upon the world by teaching her a series of deadly lessons. What follows is a dangerous game of cat and mouse that proves you never know who you're driving next to."
+  },
+  {
+    title: 'The Wolf of Wall Street (2013)',
+    rating: '8.2',
+    ratingCount: '1,135,332',
+    genres: [ 'Biography', 'Crime', 'Drama' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '3h',
+    description: 'Jordan Belfort is a Long Island penny stockbroker who served 22 months in prison for defrauding investors in a massive 1990s securities scam that involved widespread corruption on Wall Street and in the corporate banking world, including shoe designer Steve Madden.'
+  },
+  {
+    title: 'Black Is King (2020)',
+    rating: '5.6',
+    ratingCount: '5,134',
+    genres: [ 'cate:TV-14', 'Seeallcertifications»' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYWNkOWU1MDUtNzMzMy00NTAwLWExZTAtZjJlZjg0YWNiZjE3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 25min',
+    description: "Visual album from Beyoncé inspired by 'The Lion King'."
+  },
+  {
+    title: 'Solo: A Star Wars Story (2018)',
+    rating: '6.9',
+    ratingCount: '276,015',
+    genres: [ 'Action', 'Adventure', 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 15min',
+    description: 'With the emerging demand of hyperfuel and other resources, Han Solo finds himself in the middle of a heist alongside other criminals, where they meet the likes of Chewbacca and Lando Calrissian in an adventurous situation exposing the criminal underworld.'
+  },
+  {
+    title: 'Doctor Sleep (2019)',
+    rating: '7.4',
+    ratingCount: '116,201',
+    genres: [ 'Drama', 'Fantasy', 'Horror', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 32min',
+    description: `On highways across America, a tribe of people called The True Knot travel in search of sustenance. They look harmless-mostly old, lots of polyester, and married to their RVs. But as Dan Torrance knows, and tween Abra Stone learns, The True Knot are quasi-immortal, living off the "steam" that children with the "shining" produce when they are slowly tortured to death. Haunted by the inhabitants of the Overlook Hotel where he spent one horrific childhood year, Dan has been drifting for decades, desperate to shed his father's legacy of despair, alcoholism, and violence. Finally, he settles in a New Hampshire town, an AA community that sustains him, and a job at a nursing home where his remnant "shining" power provides the crucial final comfort to the dying. Aided by a prescient cat, he becomes "Doctor Sleep." Then Dan meets the evanescent Abra Stone, and it is her spectacular gift, the brightest shining ever seen, that reignites Dan's own demons and summons him to a battle for Abra's soul...`
+  },
+  {
+    title: 'Midway (2019)',
+    rating: '6.7',
+    ratingCount: '54,780',
+    genres: [ 'Action', 'Adventure', 'Drama', 'History', 'War' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYzA5Y2Q2YjktZDYwMi00NTdmLThlMjctMmY5NDgwOWRhZDUxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 18min',
+    description: 'MIDWAY centers on the Battle of Midway, a clash between the American fleet and the Imperial Japanese Navy which marked a pivotal turning point in the Pacific Theater during WWII. The film, based on the real-life events of this heroic feat, tells the story of the leaders and soldiers who used their instincts, fortitude and bravery to overcome the odds.'
+  },
+  {
+    title: 'Offering to the Storm (2020)',
+    rating: '6.2',
+    ratingCount: '1,736',
+    genres: [ 'cate:TV-MA', 'Seeallcertifications»' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNzM0ZmEzNjMtOThlNy00YTkzLWEwYzUtMDgxOTU0MjFmMzY2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 19min',
+    description: 'Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley.'
+  },
+  {
+    title: 'Midsommar (2019)',
+    rating: '7.1',
+    ratingCount: '171,224',
+    genres: [ 'Drama', 'Horror', 'Mystery', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 28min',
+    description: 'Dani (Florence Pugh) and Christian (Jack Reynor) are a young American couple with a relationship on the brink of falling apart. But after a family tragedy keeps them together, a grieving Dani invites herself to join Christian and his friends on a trip to a once-in-a-lifetime midsummer festival in a remote Swedish village. What begins as a carefree summer holiday in a land of eternal sunlight takes a sinister turn when the insular villagers invite their guests to partake in festivities that render the pastoral paradise increasingly unnerving and viscerally disturbing.'
+  },
+  {
+    title: "Charlie's Angels (2019)",
+    rating: '4.7',
+    ratingCount: '47,030',
+    genres: [ 'Action', 'Adventure', 'Comedy' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BN2VkMjQwZWMtMzc1NC00ZjJiLWJlNTMtNmRjOTE2ZTJmYzUwXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR7,0,182,268_AL_.jpg',
+    length: '1h 58min',
+    description: "Sabina Wilson (Kristen Stewart), Elena Houghlin (Naomi Scott), and Jane Kano (Ella Balinska) are working for the mysterious Charles Townsend (Robert Clotworthy), whose security and investigative agency has expanded internationally. With the world's smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere."
+  },
+  {
+    title: "Harry Potter and the Sorcerer's Stone (2001)",
+    rating: '7.6',
+    ratingCount: '622,180',
+    genres: [ 'Adventure', 'Family', 'Fantasy' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 32min',
+    description: 'This is the tale of Harry Potter (Daniel Radcliffe), an ordinary eleven-year-old boy serving as a sort of slave for his aunt and uncle who learns that he is actually a wizard and has been invited to attend the Hogwarts School for Witchcraft and Wizardry. Harry is snatched away from his mundane existence by Rubeus Hagrid (Robbie Coltrane), the groundskeeper for Hogwarts, and quickly thrown into a world completely foreign to both him and the viewer. Famous for an incident that happened at his birth, Harry makes friends easily at his new school. He soon finds, however, that the wizarding world is far more dangerous for him than he would have imagined, and he quickly learns that not all wizards are ones to be trusted.'
+  },
+  {
+    title: 'The Invisible Man (2020)',
+    rating: '7.1',
+    ratingCount: '123,804',
+    genres: [ 'Horror', 'Mystery', 'Sci-Fi', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZjFhM2I4ZDYtZWMwNC00NTYzLWE3MDgtNjgxYmM3ZWMxYmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 4min',
+    description: "The film follows Cecilia, who receives the news of her abusive ex-boyfriend's suicide. She begins to re-build her life for the better. However, her sense of reality is put into question when she begins to suspect her deceased lover is not actually dead."
+  },
+  {
+    title: 'Back to the Future (1985)',
+    rating: '8.5',
+    ratingCount: '1,022,532',
+    genres: [ 'Adventure', 'Comedy', 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 56min',
+    description: 'Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean "time machine" invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love - so he can get back to the future.'
+  },
+  {
+    title: '1917 (2019)',
+    rating: '8.3',
+    ratingCount: '352,180',
+    genres: [ 'Drama', 'War' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 59min',
+    description: 'April 1917, the Western Front. Two British soldiers are sent to deliver an urgent message to an isolated regiment. If the message is not received in time the regiment will walk into a trap and be massacred. To get to the regiment they will need to cross through enemy territory. Time is of the essence and the journey will be fraught with danger.'
+  },
+  {
+    title: 'Relic (2020)',
+    rating: '5.9',
+    ratingCount: '7,051',
+    genres: [ 'Drama', 'Horror' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BOGY1MGM2ZjItZDJjMC00ZGM0LTg2MDctNmExNzcyYTcwMjM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 29min',
+    description: "When elderly mother Edna inexplicably vanishes, her daughter Kay and granddaughter Sam rush to their family's decaying country home, finding clues of her increasing dementia scattered around the house in her absence. After Edna returns just as mysteriously as she disappeared, Kay's concern that her mother seems unwilling or unable to say where she's been clashes with Sam's unabashed enthusiasm to have her grandma back. As Edna's behavior turns increasingly volatile, both begin to sense that an insidious presence in the house might be taking control of her. With RELIC, first-time writer/director Natalie Erika James crafts an unforgettable new spin on the haunted-house movie."
+  },
+  {
+    title: 'Scott Pilgrim vs. the World (2010)',
+    rating: '7.5',
+    ratingCount: '366,500',
+    genres: [ 'Action', 'Comedy', 'Fantasy', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMTkwNTczNTMyOF5BMl5BanBnXkFtZTcwNzUxOTUyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 52min',
+    description: "Scott Pilgrim plays in a band which aspires to success. He dates Knives Chau, a high-school girl five years younger, and he hasn't recovered from being dumped by his former girlfriend, now a success with her own band. When Scott falls for Ramona Flowers, he has trouble breaking up with Knives and tries to romance Ramona. As if juggling two women wasn't enough, Ramona comes with baggage: seven ex-lovers, with each of whom Scott must do battle to the death in order to win Ramona."
+  },
+  {
+    title: 'Koma (2019)',
+    rating: '6.4',
+    ratingCount: '3,497',
+    genres: [ 'Action', 'Adventure', 'Fantasy', 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZDc3OWJkMWEtMTlmOC00OGU4LTk3MDYtZDE3OTNiZGRhMmMxXkEyXkFqcGdeQXVyNjYzMTAzNTY@._V1_UY268_CR3,0,182,268_AL_.jpg',
+    length: '1h 51min',
+    description: 'After a colossal and mysterious accident a young talented architect comes back to his senses in a very odd world that only resembles the reality. This world is based on the memories of the ones who live in it - people who are currently finding themselves in a deep coma. Human memory is spotty, chaotic and unstable. The same is the COMA - odd collection of memories and recollections - cities, glaciers and rivers can all be found in one room. All the laws of physics can be broken. The architect must find out the exact laws and regulations of COMA as he fights for his life, meets the love of his life and keeps on looking for the exit to the real world which he will have to get acquainted with all over again after the experience of COMA.'
+  },
+  {
+    title: 'Interstellar (2014)',
+    rating: '8.6',
+    ratingCount: '1,439,484',
+    genres: [ 'Adventure', 'Drama', 'Sci-Fi', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 49min',
+    description: "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life."
+  },
+  {
+    title: 'Inception (2010)',
+    rating: '8.8',
+    ratingCount: '1,991,076',
+    genres: [ 'Action', 'Adventure', 'Sci-Fi', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 28min',
+    description: "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible, inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea, but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming."
+  },
+  {
+    title: 'Pride & Prejudice (2005)',
+    rating: '7.8',
+    ratingCount: '246,144',
+    genres: [ 'Drama', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 9min',
+    description: "The story is based on Jane Austen's novel about five sisters - Jane (Rosamund Pike), Elizabeth (Keira Knightley), Mary (Talulah Riley), Kitty (Carey Mulligan), and Lydia Bennet (Jena Malone) - in Georgian England. Their lives are turned upside down when wealthy young Mr. Bingley (Simon Woods) and his best friend, Mr. Darcy (Matthew Macfadyen), arrive in their neighborhood."
+  },
+  {
+    title: 'Chhichhore (2019)',
+    rating: '8.2',
+    ratingCount: '27,285',
+    genres: [ 'cate:Seeallcertifications»' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYjg2ZDI2YTYtN2EwYi00YWI5LTgyMWQtMWFkYmE3NmJkOGVhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg',
+    length: '2h 23min',
+    description: "The setup was within 1990's till present where Anni, a divorcee used his past experience in overcoming challenges of being a loser in college where he met His Wife, Maya and his Losers friends, Saxa, Mummy, Acid, Derek and Bevda. His shares past experience to his son, Raghav who struggles with being failed at getting an offer to college despite being an excellent student."
+  },
+  {
+    title: 'Radioactive (2019)',
+    rating: '6.1',
+    ratingCount: '3,225',
+    genres: [ 'Biography', 'Drama', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZGZkNzY3MmUtYjJlNC00NTM0LWFiNmYtZDA4NzBiMmU1MzI4XkEyXkFqcGdeQXVyODE0OTU5Nzg@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 49min',
+    description: 'Pioneer - Rebel - Genius. Radioactive is incredible, true-story of Marie Sklodowska-Curie and her Nobel Prize-winning work that changed the world starring Rosamund Pike and Sam Riley.'
+  },
+  {
+    title: 'The Dark Knight (2008)',
+    rating: '9.0',
+    ratingCount: '2,232,881',
+    genres: [ 'Action', 'Crime', 'Drama', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 32min',
+    description: `Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as "The Joker" appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to "confront everything he believes" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes.`
+  },
+  {
+    title: 'Extraction (2020)',
+    rating: '6.7',
+    ratingCount: '136,760',
+    genres: [
+      'PictureRating(MPAA)RatedRforstrongbloodyviolencethroughout,languageandbriefdruguse',
+      'Seeallcertifications»'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 56min',
+    description: "In an underworld of weapons dealers and traffickers, a young boy becomes the pawn in a war between notorious drug lords. Trapped by kidnappers inside one of the world's most impenetrable cities, his rescue beckons the unparalleled skill of a mercenary named Tyler Rake, but Rake is a broken man with nothing to lose, harboring a death wish that makes an already deadly mission near impossible."
+  },
+  {
+    title: 'Little Women (2019)',
+    rating: '7.9',
+    ratingCount: '118,253',
+    genres: [ 'Drama', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 15min',
+    description: 'In the years after the Civil War, Jo March (Saoirse Ronan) lives in New York City and makes her living as a writer, while her sister Amy March (Florence Pugh) studies painting in Paris. Amy has a chance encounter with Theodore "Laurie" Laurence (Timothée Chalamet), a childhood crush who proposed to Jo, but was ultimately rejected. Their oldest sibling, Meg March (Emma Watson), is married to a schoolteacher, while shy sister Beth (Eliza Scanlen) develops a devastating illness that brings the family back together.'
+  },
+  {
+    title: 'The Hunt (2020)',
+    rating: '6.5',
+    ratingCount: '48,385',
+    genres: [ 'Action', 'Horror', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNjg4MjRhZjgtNTIxOS00MmRjLTg4NTEtNjBkNzkwZjAxMjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 30min',
+    description: `"Twelve strangers wake up in a clearing. They don't know where they are -- or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted, Crystal, turns the tables on her pursuers.`
+  },
+  {
+    title: 'Scoob! (2020)',
+    rating: '5.7',
+    ratingCount: '12,919',
+    genres: [ 'Animation', 'Adventure', 'Comedy', 'Family', 'Mystery' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZTJmODM0MDQtMTRjYy00YWZjLThjODItMzQ5N2I2NDBjYzA1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY268_CR9,0,182,268_AL_.jpg',
+    length: '1h 33min',
+    description: `Scooby-Doo is the hero of his own story in "SCOOB!," the first full-length, theatrical animated Scooby-Doo adventure, which reveals how he and his best friend Shaggy became two of the world's most beloved crime busters. The story takes us back to where it all began, when a young Scooby and Shaggy first meet, and team up with Velma, Daphne, and Fred to launch Mystery Incorporated.`
+  },
+  {
+    title: 'BlacKkKlansman (2018)',
+    rating: '7.5',
+    ratingCount: '203,007',
+    genres: [ 'Biography', 'Crime', 'Drama' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 15min',
+    description: "In the early 1970s, Ron Stallworth is hired as the first black officer in the Colorado Springs, Colorado police department. Stallworth is initially assigned to work in the records room, where he faces racial slurs from his coworkers. Stallworth requests a transfer to go undercover, and is assigned to infiltrate a local rally at which national civil rights leader Kwame Ture (birth name Stokely Carmichael) is to give a speech. At the rally, Stallworth meets Patrice Dumas, the president of the black student union at Colorado College. While taking Ture to his hotel, Patrice is stopped by patrolman Andy Landers, a corrupt, racist officer in Stallworth's precinct, who threatens Ture and sexually assaults Patrice.."
+  },
+  {
+    title: 'Uncut Gems (2019)',
+    rating: '7.4',
+    ratingCount: '193,953',
+    genres: [
+      'PictureRating(MPAA)RatedRforpervasivestronglanguage,violence,somesexualcontentandbriefdruguse.',
+      'Seeallcertifications»'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZDhkMjUyYjItYWVkYi00YTM5LWE4MGEtY2FlMjA3OThlYmZhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 15min',
+    description: "Howard Ratner (Adam Sandler) is a once successful New York gems dealer whose gambling addiction has left his family and career in shambles, and him hundreds of thousands in debt. Always looking for the next big bet, Howard thinks he finally hit it big when he discovers a rare uncut rock of Ethiopian gems, with a very interested high-profile buyer. But the closer Howard gets to finally winning big, the more he is forced to realize he can't keep running from the consequences of his actions."
+  },
+  {
+    title: 'Shakuntala Devi (2020)',
+    rating: '6.3',
+    ratingCount: '3,878',
+    genres: [ 'cate:Seeallcertifications»' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYjQ0NGNmOGEtYTVjMS00MTYyLWFlODctODZiNDE4ZDMwYzJmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg',
+    length: '2h 7min',
+    description: 'The extraordinary story of Shakuntala Devi, the world-renowned mathematician who lived her life on her own terms. While the film pays tribute to her genius as a mathematician, it also humanizes her as a woman and mother, in trying to capture her indomitable spirit. Told through the lens of her relationship with her daughter Anu, the film highlights their very different struggles and aspirations.'
+  },
+  {
+    title: 'Amulet (2020)',
+    rating: '4.5',
+    ratingCount: '980',
+    genres: [ 'Horror' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNzFiYTdiMDktMzJhZi00NzEwLTgxN2UtNDc5OTM5MmVhMjRkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 39min',
+    description: 'An ex-soldier, living homeless in London, is offered a place to stay at a decaying house inhabited by a young woman and her dying mother. As he starts to fall for her, he cannot ignore his suspicion that something sinister is going on.'
+  },
+  {
+    title: 'Gladiator (2000)',
+    rating: '8.5',
+    ratingCount: '1,303,156',
+    genres: [ 'Action', 'Adventure', 'Drama' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 35min',
+    description: 'Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge.'
+  },
+  {
+    title: 'Trolls World Tour (2020)',
+    rating: '6.1',
+    ratingCount: '10,869',
+    genres: [
+      'PictureRating(MPAA)RatedPGforsomemildrudehumor',
+      'Seeallcertifications»'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMTI5NmViY2YtNDk5NC00NjY2LWFlNGYtOGEwNzY1MTZmMjFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 30min',
+    description: "Poppy and Branch discover that they are but one of six different Troll tribes scattered over six different lands devoted to six different kinds of music: Funk, Country, Techno, Classical, Pop and Rock. Their world is about to get a lot bigger and a whole lot louder. A member of hard-rock royalty, Queen Barb, aided by her father King Thrash, wants to destroy all other kinds of music to let rock reign supreme. With the fate of the world at stake, Poppy and Branch, along with their friends, set out to visit all the other lands to unify the Trolls in harmony against Barb, who's looking to upstage them all."
+  },
+  {
+    title: 'Clueless (1995)',
+    rating: '6.8',
+    ratingCount: '176,489',
+    genres: [ 'Comedy', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMzBmOGQ0NWItOTZjZC00ZDAxLTgyOTEtODJiYWQ2YWNiYWVjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 37min',
+    description: 'Cher, a high school student in Beverly Hills, must survive the ups and downs of adolescent life. Her external demeanor at first seems superficial, but rather it hides her wit, charm, and intelligence which help her to deal with relationships, friends, family, school, and the all-important teenage social life.'
+  },
+  {
+    title: 'Vivarium (2019)',
+    rating: '5.8',
+    ratingCount: '25,934',
+    genres: [ 'Comedy', 'Horror', 'Mystery', 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYmEyZGQyMmItZTdjMC00YmZhLTk4YjUtNzkzZDc2NDYyMGMxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 37min',
+    description: 'A young couple is thinking about buying their starter home. And to this end, they visit a real estate agency where they are received by a strange sales agent, who accompanies them to a new, mysterious, peculiar housing development to show them a single-family home. There they get trapped in a surreal, maze-like nightmare.'
+  },
+  {
+    title: 'Star Wars: The Rise of Skywalker (2019)',
+    rating: '6.6',
+    ratingCount: '342,763',
+    genres: [ 'Action', 'Adventure', 'Fantasy', 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 21min',
+    description: 'While the First Order continues to ravage the galaxy, Rey finalizes her training as a Jedi. But danger suddenly rises from the ashes as the evil Emperor Palpatine mysteriously returns from the dead. While working with Finn and Poe Dameron to fulfill a new mission, Rey will not only face Kylo Ren once more, but she will also finally discover the truth about her parents as well as a deadly secret that could determine her future and the fate of the ultimate final showdown that is to come.'
+  },
+  {
+    title: 'The King of Staten Island (2020)',
+    rating: '7.2',
+    ratingCount: '17,505',
+    genres: [
+      'PictureRating(MPAA)RatedRforlanguageanddrugusethroughout,sexualcontentandsomeviolence/bloodyimages',
+      'Seeallcertifications»'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYzkxMzMzOTgtNmZhMS00MGM0LTk3MzUtMjE1MzI4MzU5ZjkzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 16min',
+    description: "Scott has been a case of arrested development ever since his firefighter father died when he was seven. He's now reached his mid-20s having achieved little, chasing a dream of becoming a tattoo artist that seems far out of reach. As his ambitious younger sister heads off to college, Scott is still living with his exhausted ER nurse mother and spends his days smoking weed, hanging with the guys - Oscar, Igor and Richie - and secretly hooking up with his childhood friend Kelsey. But when his mother starts dating a loudmouth firefighter named Ray, it sets off a chain of events that will force Scott to grapple with his grief and take his first tentative steps toward moving forward in life."
+  },
+  {
+    title: 'The Big Ugly (2020)',
+    rating: '4.1',
+    ratingCount: '341',
+    genres: [
+      'PictureRating(MPAA)RatedRforviolence,languagethroughout,somesexualcontentandbriefdruguse',
+      'Seeallcertifications»'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BM2E5ZTUxNjEtYjE4Ni00Y2Y3LThkMDYtOGYwMzcyM2JjYWU1XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 46min',
+    description: 'Anglo-American relations go bad when London mob bosses invest in a West Virginia oil deal in hopes of laundering dirty money.'
+  },
+  {
+    title: 'Jumanji: The Next Level (2019)',
+    rating: '6.7',
+    ratingCount: '162,325',
+    genres: [ 'Action', 'Adventure', 'Comedy', 'Fantasy' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 3min',
+    description: "The gang is back but the game has changed. As they return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored, from the arid deserts to the snowy mountains, in order to escape the world's most dangerous game."
+  },
+  {
+    title: 'The Shining (1980)',
+    rating: '8.4',
+    ratingCount: '865,034',
+    genres: [ 'Drama', 'Horror' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 26min',
+    description: `Haunted by a persistent writer's block, the aspiring author and recovering alcoholic, Jack Torrance, drags his wife, Wendy, and his gifted son, Danny, up snow-capped Colorado's secluded Overlook Hotel after taking up a job as an off-season caretaker. As the cavernous hotel shuts down for the season, the manager gives Jack a grand tour, and the facility's chef, the ageing Mr Hallorann, has a fascinating chat with Danny about a rare psychic gift called "The Shining", making sure to warn him about the hotel's abandoned rooms, and, in particular, the off-limits Room 237. However, instead of overcoming the dismal creative rut, little by little, Jack starts losing his mind, trapped in an unforgiving environment of seemingly endless snowstorms, and a gargantuan silent prison riddled with strange occurrences and eerie visions. Now, the incessant voices inside Jack's head demand sacrifice. Is Jack capable of murder?`
+  },
+  {
+    title: 'The Godfather: Part II (1974)',
+    rating: '9.0',
+    ratingCount: '1,094,045',
+    genres: [ 'Crime', 'Drama' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR3,0,182,268_AL_.jpg',
+    length: '3h 22min',
+    description: 'The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba.'
+  },
+  {
+    title: 'Harley Quinn: Birds of Prey (2020)',
+    rating: '6.1',
+    ratingCount: '128,990',
+    genres: [ 'Action', 'Adventure', 'Crime' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 49min',
+    description: "A twisted tale told by Harley Quinn herself, when Gotham's most nefariously narcissistic villain, Roman Sionis, and his zealous right-hand, Zsasz, put a target on a young girl named Cass, the city is turned upside down looking for her. Harley, Huntress, Black Canary and Renee Montoya's paths collide, and the unlikely foursome have no choice but to team up to take Roman down."
+  },
+  {
+    title: 'Terminator: Dark Fate (2019)',
+    rating: '6.2',
+    ratingCount: '129,382',
+    genres: [ 'Action', 'Adventure', 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BOWExYzVlZDgtY2E1ZS00NTFjLWFmZWItZjI2NWY5ZWJiNTE4XkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 8min',
+    description: 'A young female Mexican worker, Dani Ramos, is hunted down by a virtually indestructible terminator from the future called a REV-9. However, she is protected by an enhanced human named Grace who is also from the future. They flee from the unstoppable terminator and out of the blue Sarah Connor helps them on the road. All three head to Laredo, Texas, where Grace has the coordinates of a possible support and where they meet a T-800 who is living in an isolated location with his family. The group teams up to try to destroy the REV-9.'
+  },
+  {
+    title: 'Spotlight (2015)',
+    rating: '8.1',
+    ratingCount: '404,420',
+    genres: [ 'Biography', 'Crime', 'Drama' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 9min',
+    description: `When the Boston Globe's tenacious "Spotlight" team of reporters delves into allegations of abuse in the Catholic Church, their year-long investigation uncovers a decades-long cover-up at the highest levels of Boston's religious, legal, and government establishment, touching off a wave of revelations around the world.`
+  },
+  {
+    title: 'Ad Astra (2019)',
+    rating: '6.6',
+    ratingCount: '181,657',
+    genres: [ 'Adventure', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 3min',
+    description: 'Astronaut Roy McBride (Brad Pitt) travels to the outer edges of the solar system to find his missing father and unravel a mystery that threatens the survival of our planet. His journey will uncover secrets that challenge the nature of human existence and our place in the cosmos.'
+  },
+  {
+    title: 'Jojo Rabbit (2019)',
+    rating: '7.9',
+    ratingCount: '242,793',
+    genres: [ 'Comedy', 'Drama', 'War' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 48min',
+    description: 'A World War II satire that follows a lonely German boy named Jojo (Roman Griffin Davis) whose world view is turned upside down when he discovers his single mother (Scarlett Johansson) is hiding a young Jewish girl (Thomasin McKenzie) in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler (Taika Waititi), Jojo must confront his blind nationalism.'
+  },
+  {
+    title: 'Pulp Fiction (1994)',
+    rating: '8.9',
+    ratingCount: '1,773,871',
+    genres: [ 'Crime', 'Drama' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR1,0,182,268_AL_.jpg',
+    length: '2h 34min',
+    description: 'Jules Winnfield (Samuel L. Jackson) and Vincent Vega (John Travolta) are two hit men who are out to retrieve a suitcase stolen from their employer, mob boss Marsellus Wallace (Ving Rhames). Wallace has also asked Vincent to take his wife Mia (Uma Thurman) out a few days later when Wallace himself will be out of town. Butch Coolidge (Bruce Willis) is an aging boxer who is paid by Wallace to lose his fight. The lives of these seemingly unrelated people are woven together comprising of a series of funny, bizarre and uncalled-for incidents.'
+  },
+  {
+    title: 'Bad Boys for Life (2020)',
+    rating: '6.7',
+    ratingCount: '106,980',
+    genres: [ 'Action', 'Comedy', 'Crime', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 4min',
+    description: 'Marcus and Mike have to confront new issues (career changes and midlife crises), as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.'
+  },
+  {
+    title: 'The Hater (2020)',
+    rating: '7.1',
+    ratingCount: '2,972',
+    genres: [ 'cate:Seeallcertifications»' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BN2EzZDRiMjgtMzgxOC00ZGM4LWJlOTQtNjUxNzc2MzdhMjIyXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_UY268_CR3,0,182,268_AL_.jpg',
+    length: '2h 15min',
+    description: 'A young man searches for purpose in a net of hatred and violence that he tries to control.'
+  },
+  {
+    title: 'Three Billboards Outside Ebbing, Missouri (2017)',
+    rating: '8.2',
+    ratingCount: '408,506',
+    genres: [
+      'PictureRating(MPAA)RatedRforviolence,languagethroughout,andsomesexualreferences',
+      'Seeallcertifications»'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 55min',
+    description: "THREE BILLBOARDS OUTSIDE EBBING, MISSOURI is a darkly comic drama from Academy Award nominee Martin McDonagh (In Bruges). After months have passed without a culprit in her daughter's murder case, Mildred Hayes (Academy Award winner Frances McDormand) makes a bold move, painting three signs leading into her town with a controversial message directed at William Willoughby (Academy Award nominee Woody Harrelson), the town's revered chief of police. When his second-in-command Officer Dixon (Academy Award winner Sam Rockwell), an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated."
+  },
+  {
+    title: 'Archive (2020)',
+    rating: '6.3',
+    ratingCount: '3,392',
+    genres: [ 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMzFkNTRiMzYtODM2MS00YWQ2LThkNTUtMDE1Y2E2YjAwYTUxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 49min',
+    description: '2038: George Almore is working on a true human-equivalent AI. His latest prototype is almost ready. This sensitive phase is also the riskiest. Especially as he has a goal that must be hidden at all costs: being reunited with his dead wife.'
+  },
+  {
+    title: 'The Lord of the Rings: The Fellowship of the Ring (2001)',
+    rating: '8.8',
+    ratingCount: '1,614,564',
+    genres: [ 'Action', 'Adventure', 'Drama', 'Fantasy' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 58min',
+    description: 'An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it. However, he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir, and his three Hobbit friends Merry, Pippin, and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign.'
+  },
+  {
+    title: 'Jurassic Park (1993)',
+    rating: '8.1',
+    ratingCount: '840,778',
+    genres: [ 'Action', 'Adventure', 'Sci-Fi', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 7min',
+    description: 'Huge advancements in scientific technology have enabled a mogul to create an island full of living dinosaurs. John Hammond has invited four individuals, along with his two grandchildren, to join him at Jurassic Park. But will everything go according to plan? A park employee attempts to steal dinosaur embryos, critical security systems are shut down and it now becomes a race for survival with dinosaurs roaming freely over the island.'
+  },
+  {
+    title: 'It Chapter Two (2019)',
+    rating: '6.6',
+    ratingCount: '188,925',
+    genres: [ 'Drama', 'Fantasy', 'Horror' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 49min',
+    description: "Defeated by members of the Losers' Club, the evil clown Pennywise returns 27 years later to terrorize the town of Derry, Maine, once again. Now adults, the childhood friends have long since gone their separate ways. But when people start disappearing, Mike Hanlon calls the others home for one final stand. Damaged by scars from the past, the united Losers must conquer their deepest fears to destroy the shape-shifting Pennywise -- now more powerful than ever."
+  },
+  {
+    title: 'Money Plane (2020)',
+    rating: '3.3',
+    ratingCount: '438',
+    genres: [ 'cate:NotRated', 'Seeallcertifications»' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMTRkZjZmZDYtZTRkOC00ZGY0LThmZjItYWRmYTZlYWI3ZjE3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY268_CR2,0,182,268_AL_.jpg',
+    length: '1h 22min',
+    description: "A professional thief with $40 million in debt and his family's life on the line must commit one final heist - rob a futuristic airborne casino filled with the world's most dangerous criminals."
+  },
+  {
+    title: 'Ip Man 4: The Finale (2019)',
+    rating: '7.1',
+    ratingCount: '19,579',
+    genres: [ 'cate:Unrated', 'Seeallcertifications»' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNzYyZWIwZjQtZGVjZi00NWIxLTk0ODMtNzA3YzE5MWM3OWI0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 47min',
+    description: "Ip Man has to travel to San Francisco to find a new school for his son who just gets expelled. When he attempts to get a recommendation letter from the Chinese Benevolent Association, he finds that the martial arts masters are furious with one of Ip Man's students who teaches Kung Fu to Americans. Meanwhile, discrimination against Chinese is making things even more tense as Ip Man has to stand up for his fellow countrymen as well."
+  },
+  {
+    title: 'X-Men: Apocalypse (2016)',
+    rating: '6.9',
+    ratingCount: '383,412',
+    genres: [ 'Action', 'Adventure', 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 24min',
+    description: "Since the dawn of civilization, he was worshiped as a god. Apocalypse, the first and most powerful mutant from Marvel's X-Men universe, amassed the powers of many other mutants, becoming immortal and invincible. Upon awakening after thousands of years, he is disillusioned with the world as he finds it and recruits a team of powerful mutants, including a disheartened Magneto, to cleanse mankind and create a new world order, over which he will reign. As the fate of the Earth hangs in the balance, Raven with the help of Professor X must lead a team of young X-Men to stop their greatest nemesis and save mankind from complete destruction."
+  },
+  {
+    title: 'The Irishman (2019)',
+    rating: '7.9',
+    ratingCount: '300,915',
+    genres: [ 'Biography', 'Crime', 'Drama' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UY268_CR0,0,182,268_AL_.jpg',
+    length: '3h 29min',
+    description: 'Frank "The Irishman" Sheeran is a man with a lot on his mind. The former labor union high official and hitman, learned to kill serving in Italy during the Second World War. He now looks back on his life and the hits that defined his mob career, maintaining connections with the Bufalino crime family. In particular, the part he claims to have played in the disappearance of his life-long friend, Jimmy Hoffa, the former president of the International Brotherhood of Teamsters, who mysteriously vanished in late July 1975 at the age of 62.'
+  },
+  {
+    title: 'Twilight (2008)',
+    rating: '5.2',
+    ratingCount: '415,002',
+    genres: [ 'Drama', 'Fantasy', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 2min',
+    description: "Bella Swan has always been a little bit different. Never one to run with the crowd, Bella never cared about fitting in with the trendy girls at her Phoenix, Arizona high school. When her mother remarries and Bella chooses to live with her father in the rainy little town of Forks, Washington, she doesn't expect much of anything to change. But things do change when she meets the mysterious and dazzlingly beautiful Edward Cullen. For Edward is nothing like any boy she's ever met. He's nothing like anyone she's ever met, period. He's intelligent and witty, and he seems to see straight into her soul. In no time at all, they are swept up in a passionate and decidedly unorthodox romance - unorthodox because Edward really isn't like the other boys. He can run faster than a mountain lion. He can stop a moving car with his bare hands. Oh, and he hasn't aged since 1918. Like all vampires, he's immortal. That's right - vampire. But he doesn't have fangs - that's just in the movies. And he doesn't..."
+  },
+  {
+    title: 'Snowpiercer (2013)',
+    rating: '7.1',
+    ratingCount: '304,704',
+    genres: [ 'Action', 'Drama', 'Sci-Fi' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 6min',
+    description: "Set in 2031, the entire world is frozen except for those aboard the Snowpiercer. For seventeen years, the world's survivors are on a train hurtling around the globe creating their own economy and class system. Led by Curtis (Chris Evans), a group of lower-class citizens living in squalor at the back of the train are determined to get to the front of the train and spread the wealth around. Each section of the train holds new surprises for the group who have to battle their way through. A revolution is underway."
+  },
+  {
+    title: 'Blade Runner 2049 (2017)',
+    rating: '8.0',
+    ratingCount: '437,844',
+    genres: [ 'Action', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 44min',
+    description: `Thirty years after the events of Blade Runner (1982), a new Blade Runner, L.A.P.D. Officer "K" (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former L.A.P.D. Blade Runner, who has been missing for thirty years.`
+  },
+  {
+    title: 'The Post (2017)',
+    rating: '7.2',
+    ratingCount: '129,126',
+    genres: [ 'Drama', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjQyMjEwOTIwNV5BMl5BanBnXkFtZTgwOTkzNTMxNDM@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 56min',
+    description: "When American military analyst, Daniel Ellsberg, realizes to his disgust the depths of the US government's deceptions about the futility of the Vietnam War, he takes action by copying top-secret documents that would become the Pentagon Papers. Later, Washington Post owner, Kay Graham, is still adjusting to taking over her late husband's business when editor Ben Bradlee discovers the New York Times has scooped them with an explosive expose on those papers. Determined to compete, Post reporters find Ellsberg himself and a complete copy of those papers. However, the Post's plans to publish their findings are put in jeopardy with a Federal restraining order that could get them all indicted for Contempt. Now, Kay Graham must decide whether to back down for the safety of her paper or publish and fight for the Freedom of the Press. In doing so, Graham and her staff join a fight that would have America's democratic ideals in the balance."
+  },
+  {
+    title: 'Ready or Not (2019)',
+    rating: '6.8',
+    ratingCount: '92,249',
+    genres: [ 'Comedy', 'Horror', 'Mystery', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 35min',
+    description: "All of us have made certain efforts so our in-laws will like us, but Grace is going to have to give it her all if she wants to fit in with her brand new husband's wealthy dynasty, who require her to follow a brutal tradition: for the bride to try to survive her wedding night while the rest of them hunt her down. The class struggle stuff hits the proverbial fan in this extremely black satire starring a brilliant Samara Weaving and including an uncommonly perverse Andie MacDowell."
+  },
+  {
+    title: 'Mortal Engines (2018)',
+    rating: '6.1',
+    ratingCount: '97,791',
+    genres: [ 'Action', 'Adventure', 'Fantasy', 'Sci-Fi', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '2h 8min',
+    description: 'A mysterious young woman, Hester Shaw, emerges as the only one who can stop a giant, predator city on wheels devouring everything in its path. Feral, and fiercely driven by the memory of her mother, Hester joins forces with Tom Natsworthy, an outcast from London, along with Anna Fang, a dangerous outlaw with a bounty on her head.'
+  },
+  {
+    title: 'The Silence of the Lambs (1991)',
+    rating: '8.6',
+    ratingCount: '1,228,918',
+    genres: [ 'Crime', 'Drama', 'Thriller' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 58min',
+    description: `F.B.I. trainee Clarice Starling (Jodie Foster) works hard to advance her career, while trying to hide or put behind her West Virginia roots, of which if some knew, would automatically classify her as being backward or white trash. After graduation, she aspires to work in the agency's Behavioral Science Unit under the leadership of Jack Crawford (Scott Glenn). While she is still a trainee, Crawford asks her to question Dr. Hannibal Lecter (Sir Anthony Hopkins), a psychiatrist imprisoned, thus far, for eight years in maximum security isolation for being a serial killer who cannibalized his victims. Clarice is able to figure out the assignment is to pick Lecter's brains to help them solve another serial murder case, that of someone coined by the media as "Buffalo Bill" (Ted Levine), who has so far killed five victims, all located in the eastern U.S., all young women, who are slightly overweight (especially around the hips), all who were drowned in natural bodies of water, and all who ...`
+  },
+  {
+    title: 'Desperados (2020)',
+    rating: '5.2',
+    ratingCount: '6,110',
+    genres: [ 'cate:TV-MA', 'Seeallcertifications»' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BNTdlNmE0MWQtMWVjMC00MzRiLWJhN2MtN2NjNDFlNDg3MTY1XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UY268_CR4,0,182,268_AL_.jpg',
+    length: '1h 45min',
+    description: 'A panicked young woman, with her reluctant friends in tow, rushes to Mexico to try and delete a ranting email she sent to her new boyfriend.'
+  },
+  {
+    title: 'Zootopia (2016)',
+    rating: '8.0',
+    ratingCount: '419,247',
+    genres: [
+      'Animation',
+      'Adventure',
+      'Comedy',
+      'Crime',
+      'Family',
+      'Mystery'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 48min',
+    description: 'From the largest elephant to the smallest shrew, the city of Zootopia is a mammal metropolis where various animals live and thrive. When Judy Hopps becomes the first rabbit to join the police force, she quickly learns how tough it is to enforce the law. Determined to prove herself, Judy jumps at the opportunity to solve a mysterious case. Unfortunately, that means working with Nick Wilde, a wily fox who makes her job even harder.'
+  },
+  {
+    title: 'Moana (2016)',
+    rating: '7.6',
+    ratingCount: '259,088',
+    genres: [
+      'Animation',
+      'Adventure',
+      'Comedy',
+      'Family',
+      'Fantasy',
+      'Musical'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 47min',
+    description: "Moana Waialiki is a sea voyaging enthusiast and the only daughter of a chief in a long line of navigators. When her island's fishermen can't catch any fish and the crops fail, she learns that the demigod Maui caused the blight by stealing the heart of the goddess, Te Fiti. The only way to heal the island is to persuade Maui to return Te Fiti's heart, so Moana sets off on an epic journey across the Pacific. The film is based on stories from Polynesian mythology."
+  },
+  {
+    title: 'Titanic (1997)',
+    rating: '7.8',
+    ratingCount: '1,020,481',
+    genres: [ 'Drama', 'Romance' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '3h 14min',
+    description: '84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.'
+  },
+  {
+    title: 'Frozen II (2019)',
+    rating: '6.9',
+    ratingCount: '120,232',
+    genres: [
+      'Animation',
+      'Adventure',
+      'Comedy',
+      'Family',
+      'Fantasy',
+      'Musical'
+    ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 43min',
+    description: "Having harnessed her ever-growing power after lifting the dreadful curse of the eternal winter in Frozen (2013), the beautiful conjurer of snow and ice, Queen Elsa, now rules the peaceful kingdom of Arendelle, enjoying a happy life with her sister, Princess Anna. However, a melodious voice that only Elsa can hear keeps her awake, inviting her to the mystical enchanted forest that the sisters' father told them about a long time ago. Now, unable to block the thrilling call of the secret siren, Elsa, along with Anna, Kristoff, Olaf, and Sven summons up the courage to follow the voice into the unknown, intent on finding answers in the perpetually misty realm in the woods. More and more, an inexplicable imbalance is hurting not only her kingdom but also the neighboring tribe of Northuldra. Can Queen Elsa put her legendary magical skills to good use to restore peace and stability?"
+  },
+  {
+    title: 'Caddyshack (1980)',
+    rating: '7.3',
+    ratingCount: '102,608',
+    genres: [ 'Comedy', 'Sport' ],
+    poster_uri: 'https://m.media-amazon.com/images/M/MV5BY2I1NWE2NzctNzNkYS00Nzg5LWEwZTQtN2I3Nzk3MTQwMDY2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg',
+    length: '1h 38min',
+    description: "There's something fishy going on at the elitist Bushwood Country Club, and the scheming president of the clubhouse, Judge Elihu Smails, has something to do with it. But, the suave golf guru, Ty Webb, and the distasteful, filthy rich construction magnate, Al Czervik, are onto him. In the meantime, the young caddie, Danny Noonan, struggles to get his life back on track, and the only way to do it is by winning the demanding Caddie Day golf tournament; a prestigious competition that can earn him a scholarship from the judge himself. Now, war breaks out, and all bets are off. Will Danny ever make his dream come true? Does he know that a subterranean menace is threatening to put in jeopardy everyone's plans?"
+  },
+  ... 31 more items
+]

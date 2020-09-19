@@ -1,0 +1,30 @@
+{
+  "name": "vanillajserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server",
+    "client": "cd ../client/reflix && yarn start",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "start": "node index.js",
+    "scrape": "node scrapers/postLogic.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "config": "^3.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.0.0",
+    "mongoose": "^5.9.25",
+    "mongoose-paginate-v2": "^1.3.9",
+    "puppeteer": "^5.2.1"
+  }
+}
