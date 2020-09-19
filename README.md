@@ -13,7 +13,7 @@ A basic application for browsing/searching/saving movies and saving them to your
   </tr>
  </table>
 
-### Key functionality
+# Key functionality
 
 * Authentication using Firebase.
 * Preview of three movie lists sorted by different categories.
